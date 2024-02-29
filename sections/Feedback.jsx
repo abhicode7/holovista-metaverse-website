@@ -15,8 +15,8 @@ const Feedback = () => (
       className={`${styles.innerWidth} mx-auto flex lg:flex-row flex-col gap-6`}
     >
       <motion.div
-      variants={fadeIn('right', 'tween', 0.2, 1)}
-      className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+        variants={fadeIn('right', 'tween', 0.2, 1)}
+        className="flex-[0.5] lg:max-w-[370px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
       >
         <div className="feedback-gradient" />
         <div>
@@ -27,7 +27,7 @@ const Feedback = () => (
         <p className='mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white'>
           “With the development of today's technology, metaverse is very useful for today's work, or can be called web 3.0. by using metaverse you can use it as anything”
         </p>
-        
+
 
       </motion.div>
 
@@ -45,11 +45,11 @@ const Feedback = () => (
           className="lg:block hidden absolute -left-[10%] top-[3%]"
         >
           <a href="#explore">
-          <img
-            src="/stamp.png"
-            alt="stamp"
-            className="w-[155px] h-[155px] object-contain"
-          />
+            <img
+              src="/stamp.png"
+              alt="stamp"
+              className="w-[155px] h-[155px] object-contain"
+            />
           </a>
         </motion.div>
       </motion.div>

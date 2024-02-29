@@ -1,7 +1,7 @@
 'use client';
-import {motion} from 'framer-motion';
+import { motion } from 'framer-motion';
 import styles from '../styles';
-import { staggerContainer, fadeIn,} from '../utils/motion';
+import { staggerContainer, fadeIn, } from '../utils/motion';
 import { TitleText, TypingText } from '../components';
 
 const World = () => (
@@ -10,7 +10,7 @@ const World = () => (
       variants={staggerContainer}
       initial="hidden"
       whileInView="show"
-      viewport={{once: false, amount: 0.25}}
+      viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <TypingText textStyles='text-center' title="| People on the World" />
@@ -20,7 +20,7 @@ const World = () => (
         variants={fadeIn('up', 'tween', 0.3, 1)}
         className="relative mt-[68px] flex w-full h-auto "
       >
-        <img src="/map.png" alt="" className='w-full h-full object-cover'/>
+        <img src="/map.png" alt="" className='w-full h-full object-cover' />
         <div className='absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]'>
           <img
             src="/people-02.png" alt="people" className='w-full h-full' />
@@ -35,7 +35,7 @@ const World = () => (
           <img
             src="/people-01.png" alt="people" className='w-full h-full' />
         </div>
-        
+
 
       </motion.div>
 
