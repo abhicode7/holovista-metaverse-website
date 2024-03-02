@@ -103,7 +103,7 @@
 
 
 .search-box:hover>.search-text {
-  width: 400px !important;
+  width: 320px !important;
   transition: cubic-bezier(0.165, 0.84, 0.44, 1);
   transition-duration: 1300ms;
   /* margin-right: 40px !important; */
