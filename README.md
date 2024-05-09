@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://holovista.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/abhicode7/holovista/blob/main/public/logo.svg" alt="Holovista Logo" height="100" />
+    <img src="https://holovista.vercel.app/cover2.png" alt="Holovista Logo" height="100" />
   </a>
 </p>
 
