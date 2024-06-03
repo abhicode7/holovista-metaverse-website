@@ -60,7 +60,7 @@ To get a local copy of this project up and running, follow these steps:
     Visit http://localhost:3000 to view the demo website.
 
 
-
+<br><br> 
 
 ## 🛠️ Technologies Used
 
@@ -71,7 +71,7 @@ Tailwind CSS: 🎨 A utility-first CSS framework for creating custom designs qui
 Framer Motion: 🎬 A React animation library for creating fluid and expressive motion.
 
 
-
+<br><br> 
 
 ## ✨ Features
 
@@ -84,7 +84,7 @@ Dynamic Content: Discover various metaverse worlds available for exploration, ea
 Feedback Integration: Feedback and reviews by the users can be displayed to increase sense of trust and authenticity.
 
 ---
-
+<br><br> 
 <p align="center">
   Made with ❤️ by Abhiroop.
 </p>
