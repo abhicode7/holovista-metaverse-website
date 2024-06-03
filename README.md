@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-<!-- --- -->
+
 
 
 ## 🚀 Getting Started
@@ -60,6 +60,8 @@ To get a local copy of this project up and running, follow these steps:
     Visit http://localhost:3000 to view the demo website.
 
 
+
+
 ## 🛠️ Technologies Used
 
 Next.js: 🚀 React framework for building server-side rendered and statically generated web applications.
@@ -67,6 +69,8 @@ Next.js: 🚀 React framework for building server-side rendered and statically g
 Tailwind CSS: 🎨 A utility-first CSS framework for creating custom designs quickly and efficiently.
 
 Framer Motion: 🎬 A React animation library for creating fluid and expressive motion.
+
+
 
 
 ## ✨ Features
